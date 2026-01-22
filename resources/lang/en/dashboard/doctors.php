@@ -1,0 +1,31 @@
+<?php
+
+return [
+
+    'add_doctors' => 'Add doctors',
+    'doctor_name' => 'Name doctors',
+    'doctor_phone' => 'Doctor Phone ',
+    'email' => 'Email',
+    'doctors' => 'Doctors',
+    'doctor_section_name' => 'Doctor Section Name',
+    'edit_doctors' => 'Edit doctors',
+    'delete_doctors' => 'Delete doctors',
+    'created_at' => 'Created_at',
+    'actions' => 'Actions',
+    'submit' => 'Submit',
+    'Close' => 'Close',
+    'edit_status' => 'Edit_Status',
+    'status' => 'Status',
+    'choose' => 'Choose',
+    'enabled' => 'Enabled',
+    'change_password' => 'Change Password',
+    'new_password' => 'New Password',
+    'appointment' => 'Appointment',
+    'not_enabled' => 'Not Enabled',
+    'password' => 'Password',
+    'password_confirmation' => 'Password Confirmation',
+    'Warning' => 'Are Sure Of The Deleting Process ?',
+    'image_not_found' => 'Image Not Found',
+    'doctor_image' => 'Doctor Image',
+    'doctor_appointments' => 'Doctor Appointments',
+];
